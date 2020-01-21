@@ -1,7 +1,7 @@
 
 # nodejs
  
-nodejs类的使用
+nodejs类的使用，websocket在nodejs中使用
 
 ## Authors
  
